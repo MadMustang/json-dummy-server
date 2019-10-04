@@ -1,23 +1,23 @@
 {
     "posts": [
-      {
-        "id": 1,
-        "user": "Deden Gilang",
-        "title": "Pesan Pribadi",
-        "content": "Ngen@0#"
-      },
-      {
-        "id": 2,
-        "user": "Kristian Utomo",
-        "title": "My Comment",
-        "content": "What the #$@3"
-      },
-	{
-         "id": 3,
-         "user": "Atidana Wisesa",
-        "title": "Pesan",
-        "content": "What the #$@3, the $hit"
-       }
+        {
+            "id": 1,
+            "user": "Deden Gilang",
+            "title": "Pesan Pribadi",
+            "content": "Ngen@0#"
+        },
+        {
+            "id": 2,
+            "user": "Kristian Utomo",
+            "title": "My Comment",
+            "content": "What the #$@3"
+        },
+	    {
+            "id": 3,
+            "user": "Atidana Wisesa",
+            "title": "Pesan",
+            "content": "What the #$@3, the $hit"
+        }
     ],
     "profile": [
         {
@@ -28,9 +28,9 @@
             "name": "Deden Gilang",
             "age": 23
         },
-	{
-	   "name": "Atidana Wisesa",
-	   "age": 23
-	}
+	    {
+	        "name": "Atidana Wisesa",
+	        "age": 23
+	    }
     ] 
   }
